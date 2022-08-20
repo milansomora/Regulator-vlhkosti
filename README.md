@@ -11,5 +11,5 @@ Cílem bylo navrhnout a realizovat jednoduché a finančně dostupné zařízen�
 </br>
 
 <div align="center">
-<img src="regulator.jpg" height="400">
+<img src="foto.jpg" height="400">
 </div>
