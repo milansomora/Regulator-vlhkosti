@@ -6,7 +6,7 @@ Cílem bylo navrhnout a realizovat jednoduché a finančně dostupné zařízen�
 #### Obsah repozitáře:
 - Dokumentace
 - Zdrojový kód pro Arduino Nano (soubor main.cpp)
-- Knihovny ke kompilaci zdrojového kódu (Složka lib)
+- Knihovny ke kompilaci zdrojového kódu (složka lib)
 </br>
 </br>
 
