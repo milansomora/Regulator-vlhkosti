@@ -1,4 +1,4 @@
-# Výroba automatického regulátoru vlhkosti vzduchu v teráriu pomocí Arduino Nano
+# Automatický regulátor vlhkosti vzduchu v teráriu
 
 Cílem bylo navrhnout a realizovat jednoduché a finančně dostupné zařízení, které automaticky reguluje vlhkost vzduchu v teráriu. Myšlenka vznikla na základě potřeb teraristů. 
 </br>
