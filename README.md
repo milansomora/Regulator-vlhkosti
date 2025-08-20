@@ -1,4 +1,4 @@
-# Regulátor vlhkosti vzduchu v teráriu
+# Automatický regulátor vlhkosti vzduchu pro terárium
 
 Cílem bylo navrhnout a realizovat jednoduché a finančně dostupné zařízení, které automaticky reguluje vlhkost vzduchu v teráriu. Návrh vznikl na základě potřeb teraristů. 
 </br>
